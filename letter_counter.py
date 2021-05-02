@@ -9,7 +9,7 @@ text = input()
 dict = {}
 
 
-for char in dict:
+for char in text:
 
   if char not in dict:
 
